@@ -1,2 +1,6 @@
+#   Ignored Files
 .ignore.txt
 secrets.txt
+
+#   Ignored Folders
+Ignore Folder
